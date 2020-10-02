@@ -1,6 +1,10 @@
 #!/bin/python3
+
+import numpy
+=======
 import math 
 import random
+
 import math
 import os
 import random
