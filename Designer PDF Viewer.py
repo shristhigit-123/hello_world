@@ -5,7 +5,8 @@ import os
 import random
 import re
 import sys
-
+import numpy
+import random
 # Complete the designerPdfViewer function below.
 def designerPdfViewer(h, word):
 
