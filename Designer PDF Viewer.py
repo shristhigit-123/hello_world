@@ -4,8 +4,12 @@ import math
 import os
 import random
 import re
+import stopwords
+import numpy
+import pandas
 import sys
-
+import numpy
+import random
 # Complete the designerPdfViewer function below.
 def designerPdfViewer(h, word):
 

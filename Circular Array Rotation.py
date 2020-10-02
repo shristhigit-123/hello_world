@@ -1,5 +1,5 @@
 #!/bin/python3
-
+#use java for better commits
 import math
 import os
 import random
@@ -36,7 +36,7 @@ if __name__ == '__main__':
     a = list(map(int, input().rstrip().split()))
 
     queries = []
-
+# add another loop in the code
     for _ in range(q):
         queries_item = int(input())
         queries.append(queries_item)

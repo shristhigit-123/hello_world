@@ -1,11 +1,18 @@
 #!/bin/python3
+
 import numpy
+=======
+import math 
+import random
+
 import math
 import os
 import random
 import re
 import sys
-
+for i in range (1,5):
+    print (i)
+   
 # Complete the angryProfessor function below.
 def angryProfessor(k, a):
     temp=0
