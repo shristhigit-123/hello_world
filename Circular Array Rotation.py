@@ -1,5 +1,5 @@
 #!/bin/python3
-
+#use java for better commits
 import math
 import os
 import random
