@@ -52,3 +52,5 @@ if __name__ == '__main__':
     fptr.write('\n')
 
     fptr.close()
+    import numpy
+    print (1234566)
