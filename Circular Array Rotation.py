@@ -8,6 +8,11 @@ import sys
 #123
 #if the digit rotate clockwoise the index rotate anticlockwise
 
+import numpy
+=======
+import math 
+import random
+
 # Complete the circularArrayRotation function below.
 def circularArrayRotation(a, k, queries):
 
