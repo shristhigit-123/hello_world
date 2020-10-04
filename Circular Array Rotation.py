@@ -5,7 +5,7 @@ import os
 import random
 import re
 import sys
-
+#123
 #if the digit rotate clockwoise the index rotate anticlockwise
 
 # Complete the circularArrayRotation function below.
