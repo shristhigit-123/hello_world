@@ -1,4 +1,9 @@
 #!/bin/python3
+
+import numpy
+=======
+import math 
+import random 
 #12313213
 import math
 import os
